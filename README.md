@@ -6,7 +6,7 @@ Clone this repo to your local directory.
 
 Go to your repo in your command terminal, and enter *npm install* to makes sure you have the required NPM packages to run this app.
 
-Then to run this app locally go to http://localhost:8080/ (or substitute for 8080 whatever port the terminal message provided). This should bring you to the home page.
+Then to run this app locally go to your browser and navigate to http://localhost:8080/ (or substitute for 8080 whatever port the terminal message provided). This should bring you to the home page.
 
 Currently there is some mock (think Simpsons) starter data in the *friends.js* file.  Feel free to change it as well as the questions in *survey.html* (think Simpsons again) to suit your tastes.
 
