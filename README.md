@@ -1,5 +1,5 @@
 # FriendFinder
-Find a Friend with this app based on a 10-question compatibility survey. This full-stack site will take in results from user surveys, then compare their answers with those already in the list of possible friends. The app will then display the name and picture of the user with the best overall match to the submitted survey.
+Find a Friend with this Node-based app featuring a 10-question compatibility survey. This full-stack site (built with Node Packages *Express*, *Body-Parser*, and *Path*, and also *JavaScript*, *JQuery*, *HTML*, *CSS*, and *Bootstrap* will take in results from user surveys, then compare their answers with those already in the list of possible friends. The app will then display the name and picture of the user with the best overall match to the submitted survey.
 
 ## Getting Started
 Clone this repo to your local directory.
