@@ -24,3 +24,4 @@ After you hit the submit button the name and picture of your best match will be 
 
 
 
+![Your new best friend!](/images/ned-screenshot.png)
